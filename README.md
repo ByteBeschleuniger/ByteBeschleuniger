@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByteBeschleuniger <= "Rahul Kumar Singh"
 - 👀 I’m interested in Digital design
-- 🌱 I’m currently learning Embedded Systems
+- 🌱 Currently learning Embedded Systems
 - 📫 Reachable on : www.linkedin.com/in/rahul-kumar-singh-9aa11b103
 
 <!---
