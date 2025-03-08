@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByteBeschleuniger <= "Rahul Kumar Singh"
-- 👀 I’m interested in Sensor Systems and Modelling
-- 🌱 Currently learning Embedded Systems
+- 👀 I’m a tech enthusiast 
+- 🌱 Always learning and seeking challenges
 - 📫 Reachable on : www.linkedin.com/in/rahul-kumar-singh-9aa11b103
 
 <!---
